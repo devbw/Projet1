@@ -1,16 +1,41 @@
-body{
-	color:#424242;
+*{
 	margin:0;
-}
-.background{
-	width: 500px;
-	background-color: #7CB342;
+	padding:0;
+	box-sizing: border-box;
+	list-style: none;
+	font-family: 'Montserrat', sans-serif;
 }
 
-.text-fcol{
-	padding-left: 25px;
+body{
+	background: #585C68;
+	font-size: 14px;
+	line-height: 22px;
+	color: #555555;
 }
-h2{
-	background-color: #424242;
-	color: white;
+
+.ensemble{
+	width: 800px;
+	height: auto;
+	display: flex;
+	margin: 50px auto;
+}
+
+.ensemble .ensemble_gauche{
+	width:280px;
+	background: #0bb5f4;
+}
+
+.ensemble .ensemble_gauche .ensemble_photo{
+	text-align: center;
+}
+
+.ensemble .ensemble_gauche .ensemble_photo img{
+	width:150px;
+	height:150px;
+	border-radius: 200px;
+	margin-top: 40px;
+}
+
+.ensemble .ensemble_gauche .ensemble_contenu{
+	text-align: center;
 }
