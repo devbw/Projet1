@@ -1,0 +1,16 @@
+body{
+	color:#424242;
+	margin:0;
+}
+.background{
+	width: 500px;
+	background-color: #7CB342;
+}
+
+.text-fcol{
+	padding-left: 25px;
+}
+h2{
+	background-color: #424242;
+	color: white;
+}
