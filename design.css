@@ -22,7 +22,7 @@ body{
 
 .ensemble .ensemble_gauche{
 	width:280px;
-	background: #0bb5f4;
+	background: #FFAB91;
 }
 
 .ensemble .ensemble_gauche .ensemble_photo{
@@ -34,8 +34,42 @@ body{
 	height:150px;
 	border-radius: 200px;
 	margin-top: 40px;
+	margin-bottom: 40px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
-.ensemble .ensemble_gauche .ensemble_contenu{
+.ensemble_item{
 	text-align: center;
+	background-color: #455A64; 
+	color:#FFAB91;
+	font-size: 1.4em;
+	padding:5px;
+}
+
+.contact_item{
+	margin: 20px 30px 20px 30px;
+	font-size: 0.8em;
+}
+
+.contact_item p{
+	line-height: 1.5em;
+	margin:10px 0px 10px 0px;
+}
+
+
+.text_descript{
+	margin:20px 30px 150px 30px;
+	font-size: 0.8em;
+	text-align: justify;
+}
+
+.ensemble_fa{
+	display:flex;
+	justify-content: center;
+}
+
+.fas{
+	font-size: 2em;
+	color:#455A64;
+	margin:20px;
 }
