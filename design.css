@@ -268,4 +268,10 @@ h3{
 	.ensemble_item{
 		font-size: 1em;
 	}
+	.divide{
+		border-bottom: solid 1px #FFAB91;
+	}
+	.ensemble_contenu_droit{
+	margin: 0px 20px 0px 20px;
+}
 }
