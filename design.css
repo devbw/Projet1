@@ -82,11 +82,9 @@ h4{
 .ensemble_title h2{
 	font-size: 1em;
 }
-.dividertitle{
-	width:11%;
-	height:1px;
-	background-color: #FFAB91;
-}
+.divide{
+		border-bottom: solid 1px #FFAB91;
+	}
 .divider{
 	width:100%;
 	height:1px;
