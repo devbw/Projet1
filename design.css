@@ -145,6 +145,21 @@ h4{
 h3{
 	font-size: 1.1em;
 }
+.fa-vial{
+	border: 2px solid #455A64;
+	border-radius: 200px 200px 200px 200px;
+	padding:4px;
+}
+.fa-drumstick-bite{
+	border: 2px solid #455A64;
+	border-radius: 200px 200px 200px 200px;
+	padding:4px;
+}
+.fa-globe-asia{
+	border: 2px solid #455A64;
+	border-radius: 200px 200px 200px 200px;
+	padding:4px;
+}
 @media screen and (max-width: 1024px){
 .ensemble{
 	width: 100%;
